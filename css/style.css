@@ -10,6 +10,10 @@ header {
     /*xt-align:center;*/
 }
 
+#main {
+    padding: 50px;
+}
+
 #img-div {}
 
 #image {
@@ -19,4 +23,6 @@ header {
     border-radius: 10px;
 }
 
-footer {}
+footer {
+    text-align: center;
+}
