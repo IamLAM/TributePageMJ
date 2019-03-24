@@ -16,6 +16,10 @@ header {
 
 #img-div {}
 
+#img-caption {
+    text-align: center;
+}
+
 #image {
     max-width: 100%;
     display: block;
