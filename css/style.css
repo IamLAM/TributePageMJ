@@ -1,10 +1,22 @@
-#img-div {
+body {
+    background-color: #ccc;
+}
+
+header {
+    text-align: center;
+}
+
+#title {
+    /*xt-align:center;*/
+}
+
+#img-div {}
+
+#image {
     max-width: 100%;
     display: block;
     height: auto;
+    border-radius: 10px;
 }
 
-#image {
-    width: 800px;
-    height: 400px;
-}
+footer {}
